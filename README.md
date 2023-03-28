@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 Jr. Front-End Developer<br>🔭 FMSS BİLİŞİM FRONT-END PRACTİCİUM<br>🌱 React.Js Öğrenmeye Çalışıyorum<br>❓ Bana Soru Sorun<br>⚡ Keep Calm & CODDİNG
+🌟 Jr. Front-End Developer<br>🔭 FMSS BİLİŞİM FRONT-END PRACTİCİUM<br>🌱 React.Js Öğrenmeye Çalışıyorum<br>❓ Bana Soru Sorun<br>⚡ Keep Calm & CODİNG
 
 
 ## 🌐 Socials:
